@@ -1,3 +1,4 @@
+// useEffectの部分で学習したことを記載し忘れていたが、次に実際にアプリを作するのでここではわざわざ追記しない。
 import React, { useState } from "react";
 import ColorfulMessage from "./components/ColorfulMessage";
 
